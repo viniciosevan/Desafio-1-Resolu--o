@@ -1,0 +1,222 @@
+* {
+    font-family: "inter";
+    margin: 0%;
+    background-color: #303030;
+}
+
+#menu-superior{
+    background-color: #303030;
+    padding: 10px;
+    
+    
+}
+#tituloprincipal{
+    color: #FFFFFF;
+    margin-left: 120px;
+    margin-top: 206px;
+    font-size: 60px;
+    
+}
+
+#textoprincipal{
+    color: #FFFFFF;
+    margin-left: 10px;
+    margin-top: 2%;
+    font-size: 20px;
+    padding: 120px;
+}
+
+#apresentacao{
+    background-color: #f8f8f8f5;
+    padding: 45px;
+    
+}
+
+#numeros{
+    background-color: #e9e3e383;
+    margin-top: 2px;
+    margin-left: 120px;
+
+}
+
+#textonumeros{
+    background-color: #e9e3e383;
+    margin-left: 120px;
+    
+}
+
+#number8{
+    background-color: #f1ededf1;
+    margin-left: 120px;
+    margin-top: 20px;
+
+}
+
+#number4{
+    background-color: #f1ededf1;
+    margin-left: 350px;
+
+}
+
+#number2{
+    background-color: #f1ededf1;
+    margin-left: 300px;
+}
+
+.nu{
+    padding: 20px;
+    background-color: #e9e3e383;
+}
+
+#thouse{
+    background-color: #FFFFFF;
+    padding: 80px;
+    bottom: 10px;
+}
+
+  #houseca {
+    max-width: 350px;
+    margin-right: 460px;
+    background-color: #FFFFFF;
+    
+  }
+   
+  #titulo-casa{
+    margin-top: 155px;
+    margin-left: 300px;
+    background-color: #FFFFFF;
+  }
+
+  #texhouse{
+    margin-left: 300px;
+    margin-top: 55px;
+    background-color: #FFFFFF;
+  }
+
+#formulario{
+    text-align: center;
+}
+
+  #titulo-formulario{
+    font-size: 25px;
+    margin: 25px;
+    color: white
+    }
+    
+    input{
+        width:  300px;
+        height: 40px;
+        background-color: #eaeaea;
+        margin: 15px;
+        border: 0px;
+        border-radius: 5px;
+        padding-left: 10px;
+    }
+    button{
+        background-color: #e78b12;
+        height: 52px;
+        width: 240px;
+        color: #fff;
+        border-radius: 5px;
+        margin-bottom: 50px;
+        font-weight: bolder;
+        cursor: pointer;
+        
+            
+    }
+    button:hover{
+        background-color: #ec8e00;;
+        color: #d48854f5;
+        transform: translate(-7px);
+        box-shadow: 0px 15px 20px #a34a0f73;;;
+        transition-duration: 0.5s;
+    
+    }
+
+
+#carrossel{
+
+    background-color: #eaeaea;
+    padding: 55px;
+}
+    .nu{
+        margin-left: 92px;
+        margin-top: 50px;
+        box-shadow: 0px 15px 20px #a39d9d ;
+    border-radius: 5px;
+    transform: translate(-7px);  
+    cursor: pointer;
+    
+    }
+        
+    #div-numbers{
+        display: grid;
+        grid-auto-flow: column;
+        background-color: #eaeaea;
+    }
+        
+
+    #div-numbers{
+        display: grid;
+        grid-auto-flow: column;
+    }
+
+.nu{
+    margin-left: 92px;
+    margin-top: 50px;
+    
+    
+}
+
+#number8{
+    margin-right: 0px;
+    margin-top: 46px;
+    
+    
+}
+
+#div-numbers{
+    display: grid;
+    grid-auto-flow: column;
+}
+
+.nu{
+    margin-left: 92px;
+    margin-top: 50px;
+    
+}
+
+#number8{
+    margin-right: 0px;
+    
+    
+}
+
+#seta-esquerda{
+    display: none;
+    background-color: #eaeaea;
+}
+
+#seta-direita{
+    background-color: #eaeaea;
+}
+
+#number4{
+    display: none;
+}
+
+.seta{
+    margin-top: 55px;
+    cursor: pointer;
+}
+
+.seta:hover{
+    transform: translateY(-7px);
+    transition-duration: 0,2s;
+   
+}
+    
+      
+
+    
+      
